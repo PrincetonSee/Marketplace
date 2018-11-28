@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: fec4c44b19cc5ad41a995dc89d108d1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Shirt00_1:Pattern2D_4228_Shirt01
+    100002: //RootNode
+    100004: Shirt01_Shirt00_1:Pattern2D_12616
+    100006: Shirt01_Shirt00_1:Pattern2D_14923
+    100008: Shirt01_Shirt00_1:Pattern2D_21425
+    100010: Shirt01_Shirt00_1:Pattern2D_22589
+    100012: Shirt01_Shirt00_1:Pattern2D_22590
+    100014: Shirt01_Shirt00_1:Pattern2D_22591
+    100016: Shirt01_Shirt00_1:Pattern2D_22592
+    100018: Shirt01_Shirt00_1:Pattern2D_22593
+    100020: Shirt01_Shirt00_1:Pattern2D_22594
+    100022: Shirt01_Shirt00_1:Pattern2D_22595
+    100024: Shirt01_Shirt00_1:Pattern2D_22596
+    100026: Shirt01_Shirt00_1:Pattern2D_22597
+    100028: Shirt01_Shirt00_1:Pattern2D_5118
+    100030: Shirt01_Shirt00_1:Pattern2D_7658
+    100032: Shirt01_Shirt00_1:Pattern2D_7659
+    100034: Shirt01_Shirt00_1:Pattern2D_7660
+    400000: Shirt00_1:Pattern2D_4228_Shirt01
+    400002: //RootNode
+    400004: Shirt01_Shirt00_1:Pattern2D_12616
+    400006: Shirt01_Shirt00_1:Pattern2D_14923
+    400008: Shirt01_Shirt00_1:Pattern2D_21425
+    400010: Shirt01_Shirt00_1:Pattern2D_22589
+    400012: Shirt01_Shirt00_1:Pattern2D_22590
+    400014: Shirt01_Shirt00_1:Pattern2D_22591
+    400016: Shirt01_Shirt00_1:Pattern2D_22592
+    400018: Shirt01_Shirt00_1:Pattern2D_22593
+    400020: Shirt01_Shirt00_1:Pattern2D_22594
+    400022: Shirt01_Shirt00_1:Pattern2D_22595
+    400024: Shirt01_Shirt00_1:Pattern2D_22596
+    400026: Shirt01_Shirt00_1:Pattern2D_22597
+    400028: Shirt01_Shirt00_1:Pattern2D_5118
+    400030: Shirt01_Shirt00_1:Pattern2D_7658
+    400032: Shirt01_Shirt00_1:Pattern2D_7659
+    400034: Shirt01_Shirt00_1:Pattern2D_7660
+    2100000: Shirt00_1_Pattern2D_4228_Shirt01Mat
+    2100002: Shirt01_Shirt00_1_Pattern2D_12616Mat
+    2100004: Shirt01_Shirt00_1_Pattern2D_14923Mat
+    2100006: Shirt01_Shirt00_1_Pattern2D_21425Mat
+    2100008: Shirt01_Shirt00_1_Pattern2D_22589Mat
+    2100010: Shirt01_Shirt00_1_Pattern2D_22590Mat
+    2100012: Shirt01_Shirt00_1_Pattern2D_22591Mat
+    2100014: Shirt01_Shirt00_1_Pattern2D_22592Mat
+    2100016: Shirt01_Shirt00_1_Pattern2D_22593Mat
+    2100018: Shirt01_Shirt00_1_Pattern2D_22594Mat
+    2100020: Shirt01_Shirt00_1_Pattern2D_22595Mat
+    2100022: Shirt01_Shirt00_1_Pattern2D_22596Mat
+    2100024: Shirt01_Shirt00_1_Pattern2D_22597Mat
+    2100026: Shirt01_Shirt00_1_Pattern2D_5118Mat
+    2100028: Shirt01_Shirt00_1_Pattern2D_7658Mat
+    2100030: Shirt01_Shirt00_1_Pattern2D_7659Mat
+    2100032: Shirt01_Shirt00_1_Pattern2D_7660Mat
+    2300000: Shirt00_1:Pattern2D_4228_Shirt01
+    2300002: Shirt01_Shirt00_1:Pattern2D_12616
+    2300004: Shirt01_Shirt00_1:Pattern2D_14923
+    2300006: Shirt01_Shirt00_1:Pattern2D_21425
+    2300008: Shirt01_Shirt00_1:Pattern2D_22589
+    2300010: Shirt01_Shirt00_1:Pattern2D_22590
+    2300012: Shirt01_Shirt00_1:Pattern2D_22591
+    2300014: Shirt01_Shirt00_1:Pattern2D_22592
+    2300016: Shirt01_Shirt00_1:Pattern2D_22593
+    2300018: Shirt01_Shirt00_1:Pattern2D_22594
+    2300020: Shirt01_Shirt00_1:Pattern2D_22595
+    2300022: Shirt01_Shirt00_1:Pattern2D_22596
+    2300024: Shirt01_Shirt00_1:Pattern2D_22597
+    2300026: Shirt01_Shirt00_1:Pattern2D_5118
+    2300028: Shirt01_Shirt00_1:Pattern2D_7658
+    2300030: Shirt01_Shirt00_1:Pattern2D_7659
+    2300032: Shirt01_Shirt00_1:Pattern2D_7660
+    3300000: Shirt00_1:Pattern2D_4228_Shirt01
+    3300002: Shirt01_Shirt00_1:Pattern2D_12616
+    3300004: Shirt01_Shirt00_1:Pattern2D_14923
+    3300006: Shirt01_Shirt00_1:Pattern2D_21425
+    3300008: Shirt01_Shirt00_1:Pattern2D_22589
+    3300010: Shirt01_Shirt00_1:Pattern2D_22590
+    3300012: Shirt01_Shirt00_1:Pattern2D_22591
+    3300014: Shirt01_Shirt00_1:Pattern2D_22592
+    3300016: Shirt01_Shirt00_1:Pattern2D_22593
+    3300018: Shirt01_Shirt00_1:Pattern2D_22594
+    3300020: Shirt01_Shirt00_1:Pattern2D_22595
+    3300022: Shirt01_Shirt00_1:Pattern2D_22596
+    3300024: Shirt01_Shirt00_1:Pattern2D_22597
+    3300026: Shirt01_Shirt00_1:Pattern2D_5118
+    3300028: Shirt01_Shirt00_1:Pattern2D_7658
+    3300030: Shirt01_Shirt00_1:Pattern2D_7659
+    3300032: Shirt01_Shirt00_1:Pattern2D_7660
+    4300000: Shirt00_1:Pattern2D_4228_Shirt01
+    4300002: Shirt01_Shirt00_1:Pattern2D_12616
+    4300004: Shirt01_Shirt00_1:Pattern2D_14923
+    4300006: Shirt01_Shirt00_1:Pattern2D_21425
+    4300008: Shirt01_Shirt00_1:Pattern2D_22589
+    4300010: Shirt01_Shirt00_1:Pattern2D_22590
+    4300012: Shirt01_Shirt00_1:Pattern2D_22591
+    4300014: Shirt01_Shirt00_1:Pattern2D_22592
+    4300016: Shirt01_Shirt00_1:Pattern2D_22593
+    4300018: Shirt01_Shirt00_1:Pattern2D_22594
+    4300020: Shirt01_Shirt00_1:Pattern2D_22595
+    4300022: Shirt01_Shirt00_1:Pattern2D_22596
+    4300024: Shirt01_Shirt00_1:Pattern2D_22597
+    4300026: Shirt01_Shirt00_1:Pattern2D_5118
+    4300028: Shirt01_Shirt00_1:Pattern2D_7658
+    4300030: Shirt01_Shirt00_1:Pattern2D_7659
+    4300032: Shirt01_Shirt00_1:Pattern2D_7660
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
